@@ -1,0 +1,2 @@
+# Need to run this command so that we can get acces to the b/n terrafrom to create resources on the gcloud
+gcloud auth application-default login
